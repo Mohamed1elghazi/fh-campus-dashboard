@@ -1,5 +1,9 @@
 ﻿# FH Campus Dashboard 2.0
 
+
+Digital campus dashboard for FH Münster (Steinfurt & Münster) built with Python & Streamlit — featuring live weather, Mensa menu, transit routing, and university portals. (Active development / ongoing)
+
+
 ## Installation
 
 Doppelklick auf start_dashboard.bat.
